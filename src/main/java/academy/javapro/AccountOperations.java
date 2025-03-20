@@ -1,4 +1,4 @@
-package academy.javapro;
+package midterm25;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

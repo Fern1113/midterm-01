@@ -1,4 +1,4 @@
-package academy.javapro;
+package midterm25;
 
 import java.util.ArrayList;
 import java.util.List;
